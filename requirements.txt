@@ -1,0 +1,5 @@
+transformers[torch]==4.41.2
+fastapi==0.111.0
+pillow==10.3.0
+pydantic==2.7.3
+validators==0.28.3
